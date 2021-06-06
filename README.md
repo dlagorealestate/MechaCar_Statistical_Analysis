@@ -8,6 +8,9 @@
       
     ![Image 6-6-21 at 3 42 PM](https://user-images.githubusercontent.com/78887673/120938083-2b378e80-c6df-11eb-95bd-d91bc7f5ff11.jpg)
   
+  
+![Image 6-6-21 at 3 43 PM](https://user-images.githubusercontent.com/78887673/120938127-591cd300-c6df-11eb-91c3-3880953d5225.jpg)
+
      
   * Is the slope of the linear model considered to be zero? Why or why not?
 
