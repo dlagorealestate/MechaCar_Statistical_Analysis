@@ -6,7 +6,7 @@
 
       The Intercept
       
-      file:///Users/davidlago/Pictures/Photos%20Library.photoslibrary/resources/derivatives/D/DC915E9C-E68A-4DFD-9BDA-C80E7D19CC75_1_105_c.jpeg
+    ![Image 6-6-21 at 3 42 PM](https://user-images.githubusercontent.com/78887673/120938083-2b378e80-c6df-11eb-95bd-d91bc7f5ff11.jpg)
   
      
   * Is the slope of the linear model considered to be zero? Why or why not?
