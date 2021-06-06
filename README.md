@@ -12,7 +12,9 @@
 ![Image 6-6-21 at 3 43 PM](https://user-images.githubusercontent.com/78887673/120938127-591cd300-c6df-11eb-91c3-3880953d5225.jpg)
 
      
-  * Is the slope of the linear model considered to be zero? Why or why not?
+  * Is the slope of the linear model considered to be zero? Why or why not? 
+ 
+ Our linear regression analysis is 6.712e-11, which is less than our assumed level of 0.05%. Therefore the slope of our linear model is not zero.
 
       
 
